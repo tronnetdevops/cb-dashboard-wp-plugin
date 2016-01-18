@@ -1,0 +1,20 @@
+.switch.large input:checked~.switch-paddle.cb-lock-checkbox:after{
+    left: 3.75rem;
+}
+
+.cb-lifted-icon{
+	color: green;
+}
+
+.cb-blocked-icon{
+	color: red;
+}
+
+.top-bar,.top-bar *,.menu{
+	background: #1E1E1E;
+	color: white;
+}
+
+body .datepicker.datepicker-dropdown.dropdown-menu .datepicker-days .table-condensed thead tr th{
+	color: black;
+}
